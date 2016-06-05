@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>«Кто звонит?» с мобильного ☎ (067) 000-00-00 Киевстар, 2 отзывов</title>
+    <meta name="description" content="Социальный телефонный справочник «Кто звонит?». ⓿❻❼ Информация о мобильном номере телефона ☎ +38067 000-00-00, комментарии о владельце номера, отзывы о номере телефона">
+    <meta name="author" content="vbegy">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Main Style -->
+    <link rel="stylesheet" href="/src/css/style.css">
+
+    <!-- Skins -->
+    <link rel="stylesheet" href="/src/css/skins/skins-my1.css">
+
+    <!-- Responsive Style -->
+    <link rel="stylesheet" href="/src/css/responsive.css">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/src/img/favicon.png">
+
+    <link rel="stylesheet" href="/src/css/mystyle.css">
+
+    <meta property="og:image" content="http://ktozvonit.com.ua/src/img/logo_ktozvonit_bg.png" />
+
+    
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-7852879343986670",enable_page_level_ads: true});</script>
+            
+</head>
+<body>
+
+
+
+<div id="wrap" class="grid_1200">
+
+<div id="header-top">
+    <section class="container clearfix">
+        <nav class="header-top-nav">
+            <ul>
+                <li><a href="#" class="run-add-comment"><i class="icon-plus"></i>Добавить комментарий</a></li>
+                <li><a href="#" class="run-add-relation"><i class="icon-link"></i>Добавить связь номеров</a></li>
+            </ul>
+        </nav>
+        <div class="header-search">
+            <form method="post" action="/search">
+                <input type="text" name="searchtext" placeholder="Искать тут">
+                <button type="submit" class="search-submit"></button>
+            </form>
+        </div>
+    </section><!-- End container -->
+</div><!-- End header-top -->
+<header id="header">
+    <section class="container clearfix">
+        <div class="logo"><a href="/"><img alt="" src="/src/img/logo_ktozvonit.png"></a></div>
+        <nav class="navigation">
+            <ul>
+                <li ><a href="/">Главная</a>
+
+                </li>
+                <li ><a href="/operators">Мобильные справочники</a>
+                    <ul id="menu-operators">
+                                                <li><a href="/operators/039">039 - оператор Golden Telecom</a></li>
+                        <li><a href="/operators/050">050 - оператор МТС</a></li>
+                        <li><a href="/operators/063">063 - оператор life:)</a></li>
+                        <li><a href="/operators/066">066 - оператор МТС, Jeans</a></li>
+                        <li><a href="/operators/067">067 - оператор Киевстар</a></li>
+                        <li><a href="/operators/068">068 - оператор Beeline</a></li>
+                        <li><a href="/operators/073">073 - оператор life:)</a></li>
+                        <li><a href="/operators/091">091 - оператор Utel</a></li>
+                        <li><a href="/operators/092">092 - оператор PEOPLEnet Telecom</a></li>
+                        <li><a href="/operators/093">093 - оператор life:)</a></li>
+                        <li><a href="/operators/094">094 - оператор Интертелеком</a></li>
+                        <li><a href="/operators/095">095 - оператор МТС, Jeans</a></li>
+                        <li><a href="/operators/096">096 - оператор Киевстар, Djuice</a></li>
+                        <li><a href="/operators/097">097 - оператор Киевстар, Djuice, Мобилыч</a></li>
+                        <li><a href="/operators/098">098 - оператор Киевстар, Djuice, Мобилыч</a></li>
+                        <li><a href="/operators/099">099 - оператор МТС, Jeans, Экотел</a></li>
+                    </ul>
+                </li>
+
+                <li ><a href="/locals">Городские</a>
+                    <ul id="menu-locals">
+                        <li><a href="/locals/%D0%90%D0%A0+%D0%9A%D1%80%D1%8B%D0%BC">Симферополь и АР Крым</a></li><li><a href="/locals/%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D1%86%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Винница и Винницкая область</a></li><li><a href="/locals/%D0%92%D0%BE%D0%BB%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Луцк и Волынская область</a></li><li><a href="/locals/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Днепропетровск и Днепропетровская область</a></li><li><a href="/locals/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Донецк и Донецкая область</a></li><li><a href="/locals/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Житомир и Житомирская область</a></li><li><a href="/locals/%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Ужгород и Закарпатская область</a></li><li><a href="/locals/%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Запорожье и Запорожская область</a></li><li><a href="/locals/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Ивано-Франковск и Ивано-Франковская область</a></li><li><a href="/locals/%D0%9A%D0%B8%D0%B5%D0%B2">Киев</a></li><li><a href="/locals/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Киевская область</a></li><li><a href="/locals/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Кировоград и Кировоградская область</a></li><li><a href="/locals/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Луганск и Луганская область</a></li><li><a href="/locals/%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Львов и Львовская область</a></li><li><a href="/locals/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Николаев и Николаевская область</a></li><li><a href="/locals/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Одесса и Одесская область</a></li><li><a href="/locals/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Полтава и Полтавская область</a></li><li><a href="/locals/%D0%A0%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Ровно и Ровенская область</a></li><li><a href="/locals/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C">Севастополь</a></li><li><a href="/locals/%D0%A1%D1%83%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Сумы и Сумская область</a></li><li><a href="/locals/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Тернополь и Тернопольская область</a></li><li><a href="/locals/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Харьков и Харьковская область</a></li><li><a href="/locals/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Херсон и Херсонская область</a></li><li><a href="/locals/%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Хмельницкий и Хмельницкая область</a></li><li><a href="/locals/%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Черкассы и Черкасская область</a></li><li><a href="/locals/%D0%A7%D0%B5%D1%80%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Чернигов и Черниговская область</a></li><li><a href="/locals/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D1%86%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C">Черновцы и Черновицкая область</a></li>
+                    </ul>
+                </li>
+                <li ><a href="/shorts">Короткие</a>
+                    <ul>
+                                                <li><a href="/shorts/3">3-х значные</a></li>
+                        <li><a href="/shorts/4">4-х значные</a></li>
+                        <li><a href="/shorts/5">5-и значные</a></li>
+                    </ul>
+                </li>
+                <li ><a href="/call-centers">Call-центры</a>
+                    <ul>
+                                                <li><a href="/call-centers/0703">0-703</a></li>
+                        <li><a href="/call-centers/0800">0-800</a></li>
+                        <li><a href="/call-centers/0900">0-900</a></li>
+                    </ul>
+                </li>
+                <li ><a href="/catalog">Бизнес-каталог</a></li>
+            </ul>
+        </nav>
+    </section><!-- End container -->
+</header><!-- End header -->
+
+    <div class="breadcrumbs">
+        <section class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Мобильный номер телефона 0670000000</h1>
+                </div>
+                <div class="col-md-12">
+                    <div class="crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" id=bc-0  itemref="bc-1"><a href="/operators" href="http://www.example.com/dresses" itemprop="url" rel="nofollow"><span itemprop="title">Справочники мобильных номеров</span></a></span><span class="crumbs-span">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" id=bc-1  itemprop="child"><a href="/operators/067" href="http://www.example.com/dresses" itemprop="url" rel="nofollow"><span itemprop="title">Оператор Киевстар &mdash; 067</span></a></span><span class="crumbs-span">/</span><span class="current">Номер (067)000-00-00</span></div>                </div>
+            </div><!-- End row -->
+        </section><!-- End container -->
+    </div><!-- End breadcrumbs -->
+<section class="container main-content">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="header-full-width-banner">
+                
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- ktozvonit3v-topFullWidth -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7852879343986670" data-ad-slot="2602963342" data-ad-format="auto"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                        </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+
+            
+<div class="page-content">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="boxedtitle page-title"><h2>Справочная информация о номере</h2></div>
+                <div class="ul_list ul_list-icon-ok about-user">
+                    <ul>
+                        <li>Справочно : Номер оператора <a href="/operators/067/1">Киевстар &mdash; 067</a></li>
+                        <li>Диапазон номеров : <a href="/operators/067/1/0000000-0009999">0000000 &ndash; 0009999</a><br /></li>
+                    </ul>
+                </div>
+                <div class="boxedtitle page-title"><h2>Связанные номера</h2></div>Нет связанных номеров. <a href="#" data-number="0670000000" class="run-add-relation">Свяжите</a> номер с другим        </div>
+        <div class="col-md-6">
+
+            
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- ktozvonit3v-number__banner -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7852879343986670" data-ad-slot="5325123742" data-ad-format="auto"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            
+
+            <a href="#" data-number="0670000000" class="button small gray-button run-add-comment" style="width: 100%; margin-top: 40px"><i class="icon-plus"></i>Добавить отзыв</a>
+            <a href="#" data-number="0670000000" class="button small gray-button run-add-relation" style="width: 100%">Связать номер с другим</a>
+            <a href="#" data-number="0670000000" class="button small gray-button run-subscribe-number" style="width: 100%">Подписаться на номер</a>
+            <a href="#" data-number="0670000000" class="button small gray-button run-get-number-button" style="width: 100%">Кнопка для сайта</a>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <a class="tooltip-n" original-title="Facebook" href="#" onclick="openSocWindow('http://www.facebook.com/sharer.php?u='+document.location)" title="Опубликовать инфо о номере на Facebook">
+                        <span class="icon_i">
+                            <span span_hover="#2f3239" span_bg="#3b5997" icon_size="30" class="icon_square" style="height: 30px; width: 30px; font-size: 15px; line-height: 30px; background-color: rgb(59, 89, 151); border-style: solid;">
+                                <i class="social_icon-facebook"></i>
+                            </span>
+                        </span>
+                    </a>
+                    <a class="tooltip-n" original-title="Twitter" href="#" onclick="openSocWindow('http://twitter.com/home?status='+document.location)" title="Опубликовать инфо о номере в Twitter">
+                        <span class="icon_i">
+                            <span span_hover="#2f3239" span_bg="#00baf0" icon_size="30" class="icon_square" style="height: 30px; width: 30px; font-size: 15px; line-height: 30px; background-color: rgb(0, 186, 240); border-style: solid;">
+                                <i class="social_icon-twitter"></i>
+                            </span>
+                        </span>
+                    </a>
+                    <a class="tooltip-n" original-title="Google plus" href="#" onclick="openSocWindow('https://plus.google.com/share?url='+document.location)" title="Опубликовать инфо о номере в Google plus">
+                        <span class="icon_i">
+                            <span span_hover="#2f3239" span_bg="#c43c2c" icon_size="30" class="icon_square" style="height: 30px; width: 30px; font-size: 15px; line-height: 30px; background-color: rgb(196, 60, 44); border-style: solid;">
+                                <i class="social_icon-gplus"></i>
+                            </span>
+                        </span>
+                    </a>
+                    <a class="tooltip-n" original-title="VKontakte" href="#" onclick="openSocWindow('http://vkontakte.ru/share.php?url='+document.location)" title="Опубликовать инфо о номере на ВКонтакте">
+                        <span class="icon_i">
+                            <span span_hover="#2f3239" span_bg="#aaaaaa" icon_size="30" class="icon_square" style="height: 30px; width: 30px; font-size: 15px; line-height: 30px; background-color: rgb(196, 60, 44); border-style: solid;">
+                                <i class="social_icon-vk"></i>
+                            </span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="gap"></div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+</div><!-- End page-content -->
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="gap"></div>
+    </div>
+</div>
+
+<div class="page-content">
+    <h3>Отзывы о номере телефона</h3>
+
+    
+
+<div itemscope itemtype="http://schema.org/Book">
+    <img src="/src/img/votes_5.png" alt="Общая оценка номера">
+    <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+        <span>Номера <span itemprop="name">06700000XX</span>
+            получили среднюю оценку
+            <span itemprop="ratingValue">5</span> от
+            <span itemprop="ratingCount">2</span> отзывов
+        </span>
+    </span>
+</div>
+
+<br />
+
+
+    <div class="alert-message warning">
+        <i class="icon-exclamation-sign"></i>
+        <p><span>Внимание!</span><br>
+            На этой странице вы видите комментарии ко всем номерам, похожим на 0670000000 с точностью до двух последних цифр, т.е. ко всем номерам с
+            0670000000 по 0670000099.
+            Во избежание мошенничества, мы не указываем точные номера телефонов комментариев и не храним эти номера в полном виде.
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="gap"></div>
+    </div>
+</div>
+
+
+        <article class="question question-type-normal">
+
+
+            
+
+            <div class="question-author"><img alt="" src="/src/img/icon_like.png"></div>
+
+
+            <div class="question-inner">
+                <div class="clearfix"></div>
+                <p class="question-desc">Недвижимость и все что с этим связано</p>
+                <span class="question-date"><i class="icon-user"></i> user</span><span class="question-date"><i class="icon-time"></i>30-06-2014 в 22:25</span><span class="question-category"><a rel="nofollow" href="/catalog/ctg/19/1#scrollTo"><i class="icon-folder-close"></i>Строительство и недвижимость</a><a rel="nofollow" href="/catalog/subctg/19/2/1#scrollTo">: Недвижимость</a></span><span class="question-category"><a href="/comment/281028" rel="nofollow" style="" title="Прямая ссылка на этот комментарий"><i class="icon-link"></i></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </article>
+        
+        <article class="question question-type-normal">
+
+
+            
+
+            <div class="question-author"><img alt="" src="/src/img/icon_like.png"></div>
+
+
+            <div class="question-inner">
+                <div class="clearfix"></div>
+                <p class="question-desc">Стопудов разводняк !! Пришло сообщение от сайта с моим обьявлением. Не Звоните ни в коем случае !!!!</p>
+                <span class="question-date"><i class="icon-user"></i> Александр</span><span class="question-date"><i class="icon-time"></i>06-01-2012 в 10:36</span><span class="question-category"><a rel="nofollow" href="/catalog/ctg/0/1#scrollTo"><i class="icon-folder-close"></i>Люди</a><a rel="nofollow" href="/catalog/subctg/0/1/1#scrollTo">: Мошенничество</a></span><span class="question-category"><a href="/comment/13006" rel="nofollow" style="" title="Прямая ссылка на этот комментарий"><i class="icon-link"></i></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </article>
+        
+            <article class="question question-type-normal" style="text-align:center;">
+                
+            </article>
+            
+<script>
+    var phoneNumber = '0670000000';
+
+    function openSocWindow(url)
+    {
+        window.open(url,'new','width=500,height=500')
+    }
+</script>
+
+
+
+
+
+
+
+
+        </div><!-- End main -->
+        <aside class="col-md-3 sidebar">
+
+            
+<div class="widget widget_tops_tabs">
+    <h3 class="widget_title">Самое популярное</h3>
+        <div class="tabs-warp">
+        <ul class="tabs">
+            <li class="tab"><a href="#" class="">За неделю</a></li>
+            <li class="tab"><a href="#" class="current">За квартал</a></li>
+
+        </ul>
+        <div class="tab-inner-warp" style="display: none;">
+            <div class="tab-inner">
+                <div class="top-numbers-item"><a rel="nofollow" href="/nomer/08008000XX">080-080-00-XX</a><span class="pull-right">+3 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09327219XX">093-272-19-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09370201XX">093-702-01-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09631292XX">096-312-92-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09481160XX">094-811-60-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06789269XX">067-892-69-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06324011XX">063-240-11-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06746921XX">067-469-21-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/07340812XX">073-408-12-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09937191XX">099-371-91-XX</a><span class="pull-right">+2 <i class="icon-comment"></i></span></div>            </div>
+        </div>
+        <div class="tab-inner-warp" style="display: block;">
+            <div class="tab-inner">
+                <div class="top-numbers-item"><a rel="nofollow" href="/nomer/05678535XX">056-785-35-XX</a><span class="pull-right">+22 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09488535XX">094-885-35-XX</a><span class="pull-right">+14 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06732860XX">067-328-60-XX</a><span class="pull-right">+8 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06859559XX">068-595-59-XX</a><span class="pull-right">+7 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/06746928XX">067-469-28-XX</a><span class="pull-right">+6 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09488601XX">094-886-01-XX</a><span class="pull-right">+6 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/05673350XX">056-733-50-XX</a><span class="pull-right">+6 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09498110XX">094-981-10-XX</a><span class="pull-right">+6 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/09489050XX">094-890-50-XX</a><span class="pull-right">+5 <i class="icon-comment"></i></span></div><div class="top-numbers-item"><a rel="nofollow" href="/nomer/04458507XX">044-585-07-XX</a><span class="pull-right">+5 <i class="icon-comment"></i></span></div>            </div>
+        </div>
+    </div>
+</div><div class="widget">
+    <h3 class="widget_title">Последние отзывы</h3>
+    <ul class="related-posts last-comments">
+        <li class="related-item">
+            <h3><a rel="nofollow" href="/nomer/06737861XX">06737861XX</a></h3>
+                        <p>Мошенник!!! В вк со взломанных страниц просит пополнить счет на этот н <a rel="nofollow" href="/comment/434160">&#8230;</a></p>
+                        <div class="clear"></div><span>03 Jun 2016</span><h3><a rel="nofollow" href="/nomer/06855784XX">06855784XX</a></h3>
+                        <p>
+Шахрай з продажем велосипедів. <a rel="nofollow" href="/comment/434159">&#8230;</a></p>
+                        <div class="clear"></div><span>03 Jun 2016</span><h3><a rel="nofollow" href="/nomer/09330450XX">09330450XX</a></h3>
+                        <p>малолетняя угрожающая из далека.
+старается казаться круче всех. <a rel="nofollow" href="/comment/434158">&#8230;</a></p>
+                        <div class="clear"></div><span>03 Jun 2016</span><h3><a rel="nofollow" href="/nomer/06723886XX">06723886XX</a></h3>
+                        <p>Коллекторы ОТП Банка.Причем кредит у них не брал. Ну как всегда угрозы <a rel="nofollow" href="/comment/434157">&#8230;</a></p>
+                        <div class="clear"></div><span>03 Jun 2016</span><h3><a rel="nofollow" href="/nomer/05010435XX">05010435XX</a></h3>
+                        <p> П. Андрей Сергеевич
+Лохотрон. Интернет магазин. Берут предоплату - то <a rel="nofollow" href="/comment/434156">&#8230;</a></p>
+                        <div class="clear"></div><span>03 Jun 2016</span>
+        </li>
+    </ul>
+</div><div class="widget">
+    
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- ktozvonit3v-rcol__links__2 -->
+                <ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-7852879343986670" data-ad-slot="3987991342"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            </div><div class="widget">
+    <h3 class="widget_title">Последние связи</h3>
+    <ul class="related-posts last-comments">
+        <li class="related-item">
+            <h3><a rel="nofollow" href="/nomer/09685259XX">09685259XX</a> &rarr; <a rel="nofollow" href="/nomer/06895105XX">06895105XX</a></h3>
+                        <p>У номеров один владелец</p>
+                        <div class="clear"></div><span>05 Jun 2016</span><h3><a rel="nofollow" href="/nomer/06746394XX">06746394XX</a> &rarr; <a rel="nofollow" href="/nomer/06889782XX">06889782XX</a></h3>
+                        <p>Номер "работника" абонента</p>
+                        <div class="clear"></div><span>04 Jun 2016</span><h3><a rel="nofollow" href="/nomer/09372371XX">09372371XX</a> &rarr; <a rel="nofollow" href="/nomer/05057302XX">05057302XX</a></h3>
+                        <p>У номеров один владелец</p>
+                        <div class="clear"></div><span>04 Jun 2016</span><h3><a rel="nofollow" href="/nomer/09865300XX">09865300XX</a> &rarr; <a rel="nofollow" href="/nomer/09865316XX">09865316XX</a></h3>
+                        <p>У номеров один владелец</p>
+                        <div class="clear"></div><span>04 Jun 2016</span><h3><a rel="nofollow" href="/nomer/09396650XX">09396650XX</a> &rarr; <a rel="nofollow" href="/nomer/09930990XX">09930990XX</a></h3>
+                        <p>Владельцы номеров знакомы</p>
+                        <div class="clear"></div><span>03 Jun 2016</span>
+        </li>
+    </ul>
+</div>
+        </aside><!-- End sidebar -->
+    </div><!-- End row -->
+</section><!-- End container -->
+
+<!-- ============================= -->
+
+<footer id="footer">
+    <section class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="widget widget_contact">
+                    <h3 class="widget_title">Кто? Что? Зачем?</h3>
+                    <p>Информация и отзывы обо всех номерах мобильных телефонов Украины (коды 039, 050, 063, 066, 067, 068, 073, 091, 092, 093, 094, 095, 096, 097, 098, 099),
+                        стационарных номерах (офисных, домашних), коротких номерах SMS-сервисов, номеров аудиотекса (0-800, 0-900, 0-703). Телефонный справочник Киева и Харькова. Комментарии о
+                        владельцах номеров. Поиск людей по номерам телефонов. Найти человека по фамилии. Узнать владельца номера телефона.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget">
+                    <h3 class="widget_title">Быстрые ссылки</h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul>
+                                <li><a href="/about">О проекте</a></li>
+                                <li><a href="/faq">ЧаВо</a></li>
+                                <li><a href="/advertising" rel="nofollow">Реклама на сайте</a></li>
+                                <li><a href="/privacy" rel="nofollow">Конфиденциальность</a></li>
+                                <li><a href="/rules" rel="nofollow">Правила</a></li>
+                                <li><a href="/contacts" rel="nofollow">Контакты</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul>
+                                <li><a href="/operators">Мобильные номера</a></li>
+                                <li><a href="/locals">Городские справочники</a></li>
+                                <li><a href="/shorts">Короткие номера</a></li>
+                                <li><a href="/call-centers">Call-центры</a></li>
+                                <li><a href="/catalog">Бизнес-каталог</a></li>
+                                <li><a href="http://igorivanovich.com.ua">Отслеживание посылок</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget">
+                    <h3 class="widget_title">Дополнительные возможости</h3>
+
+                    <div id="available-on">
+                        <a href="/info/androidapp"><img width="150" src="/src/img/availableon/google-play.png" alt="Доступно на Google Play"></a>
+                        <a href="/info/iosapp"><img width="150" src="/src/img/availableon/apple-appstore.png" alt="Доступно на Apple AppStore"></a>
+                        <a href="/info/firefoxaddon"><img width="150" src="/src/img/availableon/firefox-addons.png" alt="Доступно как плагин для FireFox"></a>
+                        <a href="/info/chromeaddon"><img width="150" src="/src/img/availableon/chrome-web-store.png" alt="Доступно как плагин для Chrome"></a>
+                        <a href="/ua"><img width="150" src="/src/img/availableon/ua-version.png" alt="ru-версия сайта"></a>
+                        <a href="/informers"><img width="150" src="/src/img/availableon/informers.png" alt="Информеры для ваших сайтов"></a>
+                    </div>
+
+                                        <div class="fb-page" data-href="https://www.facebook.com//ktozvonit" data-width="320" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ktozvonit"><a href="https://www.facebook.com/ktozvonit">Справочник мобильных номеров «Кто звонит?»</a></blockquote></div></div>
+                                    </div>
+            </div>
+        </div><!-- End row -->
+
+    </section><!-- End container -->
+</footer><!-- End footer -->
+<footer id="footer-bottom">
+    <section class="container">
+        <div class="jur">
+            Администрация сайта не разделяет мнение, высказанное в комментариях к номерам телефонов в
+                    нашей базе телефонных номеров Украины, а также не несет за них ответственности. Администрация сайта не несет
+                    ответственности за достоверность содержания комментариев к телефонным номерам, качества продаваемых товаров и
+                    предоставляемых услуг. Информация размещается на сайте лично корреспондентами (посетителями) под ответственность
+                    корреспондентов. Администрация сайта не совершает сбор и распространение любых данных или информации, связанных
+                    с данными, размещаемыми корреспондентами. Все комментарии присылаются посетителями сайта и проходят модерирование
+                    в сответствии с <a rel="nofollow" href="/rules">Правилами</a>. Во избежание злоупотреблений и мошеннических действий в адрес
+                    владельцев номеров телефонов, комментарии публикуются к номерам  телефонов без последних двух цифр. По вопросам
+                    удаления комментариев обращайтесь на <a rel="nofollow" href="/contacts">электронный адрес</a> администрации.            <br />
+            Футер.Юр поддержка        </div>
+        <div class="copyrights f_left">&copy; 2011-2016 Телефонный справочник «Кто звонит?»</div>
+        <!-- ----------- LI --------------->
+        <noindex><script type="text/javascript"><!--
+                document.write("<a rel=\"nofollow\" href=\'http://www.liveinternet.ru/click\' "+
+                    "target=_blank><img src=\'//counter.yadro.ru/hit?t44.6;r"+
+                    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                    ";"+Math.random()+
+                    "\' alt=\'\' title=\'\' "+
+                    "border=\'0\' width=\'1\' height=\'1\'><\/a>")
+                //--></script></noindex>
+        <!-- ----------- /LI ------------- -->
+        <div class="social_icons f_right">
+            <ul>
+                <li class="twitter"><a original-title="Twitter" rel="nofollow" class="tooltip-n" href="https://twitter.com/ktozvonit"><i class="social_icon-twitter font17"></i></a></li>
+                <li class="facebook"><a original-title="Facebook" rel="nofollow" class="tooltip-n" href="https://www.facebook.com/ktozvonit"><i class="social_icon-facebook font17"></i></a></li>
+                <li class="rss"><a original-title="Rss" rel="nofollow" class="tooltip-n" href="http://ktozvonit.com.ua/rss"><i class="social_icon-rss font17"></i></a></li>
+            </ul>
+        </div><!-- End social_icons -->
+    </section><!-- End container -->
+</footer><!-- End footer-bottom -->
+</div><!-- End wrap -->
+
+<div class="go-up"><i class="icon-chevron-up"></i></div>
+
+<!-- js -->
+<script src="/src/js/jquery.min.js"></script>
+<script src="/src/js/jquery-ui-1.10.4.custom.min.js"></script>
+<script src="/src/js/jquery.easing.1.3.min.js"></script>
+<script src="/src/js/html5.js"></script>
+<script src="/src/js/twitter/jquery.tweet.js"></script>
+<script src="/src/js/jflickrfeed.min.js"></script>
+<script src="/src/js/jquery.inview.min.js"></script>
+<script src="/src/js/jquery.tipsy.js"></script>
+<script src="/src/js/tabs.js"></script>
+<script src="/src/js/jquery.flexslider.js"></script>
+<script src="/src/js/jquery.prettyPhoto.js"></script>
+<script src="/src/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="/src/js/jquery.scrollTo.js"></script>
+<script src="/src/js/jquery.nav.js"></script>
+<script src="/src/js/tags.js"></script>
+<script src="/src/js/jquery.bxslider.min.js"></script>
+<script src="/src/js/custom.js"></script>
+<script src="/src/js/google-analytics.js"></script>
+
+
+<script src="/src/js/jquery.cookie.js"></script>
+<script src="/src/js/ads.js"></script>
+<script src="/src/js/common.js"></script>
+<script src="/src/js/mydialog.js"></script>
+<script src="/src/js/wtf.js"></script>
+
+<script src="/src/js/ps_number.js"></script>
+    <!-- End js -->
+
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>
